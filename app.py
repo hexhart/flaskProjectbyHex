@@ -1,3 +1,9 @@
+"""
+CP1404/CP5632 - Practical 10
+Flask project with modification
+By Hexon Hartley Jimenez
+"""
+
 from flask import Flask
 
 app = Flask(__name__)
